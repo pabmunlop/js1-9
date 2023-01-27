@@ -1,0 +1,1 @@
+document.write("<br>Esto es un segundo texto escrito desde JavaScript");
